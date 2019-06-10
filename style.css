@@ -3,6 +3,10 @@
 *::after {
   box-sizing: border-box;
 }
+h1 {
+  padding-top: 50px;
+  text-align: center;
+}
 html,
 body {
   height: 100%;
